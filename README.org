@@ -24,6 +24,7 @@ Working on: <https://github.com/qorg11/lainsafe> <https://github.com/qorg11/k9co
 
 - XMPP: qorg11@vxempire.xyz
 - Email: you have it in my profile
+- Mastodon: [[https://social.snopyta.org/@qorg11]]
 
 Thanks for reading
 
