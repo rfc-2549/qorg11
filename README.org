@@ -26,6 +26,4 @@ Working on: <https://github.com/qorg11/lainsafe> <https://github.com/qorg11/k9co
 - Email: you have it in my profile
 - Mastodon: [[https://social.snopyta.org/@qorg11]]
 
-Thanks for reading
-
-lmao this document is written in org-mode yet github says it's readme.md haha
+I don't like using github, if you wish to contribute to my projects, please go to [codeberg](https://codeberg.org/qorg11)
