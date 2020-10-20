@@ -41,4 +41,4 @@ please go to [Codeberg](https://codeberg.org/qorg11)
 
 <h1 style="color:red;">GO TO <a href="https://codeberg.org/qorg11">CODEBERG</a></h1>
 
-<p>GITHUB IS <b>UNUSABLE IN PALE MOON</b></p>
+<p>GITHUB IS <b><u><i>LITERALLY</i></u>UNUSABLE IN PALE MOON</b></p>
