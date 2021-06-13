@@ -1,4 +1,3 @@
-<strike>
 Hi this is qorg11
 =================
 
@@ -27,18 +26,6 @@ I dislike:
 Working on: <https://github.com/qorg11/lainsafe>
 <https://github.com/qorg11/k9core>
 
-Ways to contact me
-==================
-
--   XMPP: qorg11\@vxempire.xyz
--   Email: you have it in my profile
--   Mastodon: <https://social.snopyta.org/@qorg11>
-
-I don\'t like using github, if you wish to contribute to my projects,
-please go to [Codeberg](https://codeberg.org/qorg11)
-
-</strike>
-
-<h1 style="color:red;">GO TO <a href="https://codeberg.org/qorg11">CODEBERG</a></h1>
-
-<p>GITHUB IS <b><u><i>LITERALLY</i></u>UNUSABLE IN PALE MOON</b></p>
+I don't like using github most of my software is in
+<https://git.qorg11.net> so please use something like
+`git-send-email(1)` for sending patches
