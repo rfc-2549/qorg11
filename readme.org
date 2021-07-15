@@ -1,0 +1,14 @@
+* Hi this is qorg11
+
+  Welcome to my github profile. I don't like using this because I
+  don't like JavaScript. So if you want to contribute to any of my
+  projects you should use =git-format-patch= or =git-send-email=
+
+  *Projects I am working on*
+
+  - demiurge: A CLI client for Pleroma.
+  - lainsafe: A HTTP program to upload files. It also contains
+    clainsafecli to upload files.
+  - Others
+
+  I know C, Perl and Elixir.
